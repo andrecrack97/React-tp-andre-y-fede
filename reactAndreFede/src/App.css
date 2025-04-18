@@ -1,0 +1,32 @@
+.contenedor {
+  padding: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.app {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  border: 3px solid black;
+  padding: 20px;
+}
+
+.formulario {
+  width: 45%;
+  border: 2px solid orange;
+  padding: 10px;
+}
+
+.listado {
+  width: 45%;
+  border: 2px solid lightskyblue;
+  padding: 10px;
+}
+
+.reserva {
+  border: 1px solid #aaa;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+}
